@@ -56,6 +56,9 @@ public class Vehicle extends Base {
 		driver.findElement(By.xpath("//span[text()='Mahindra and Mahindra ']")).click();
 		Thread.sleep(500);
 		
+		driver.findElement(By.xpath("//span[text()='Mahindra and Mahindra ']")).click();
+		Thread.sleep(500);
+		
 	}
 	
 	
